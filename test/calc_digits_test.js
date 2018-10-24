@@ -1,3 +1,4 @@
+// Test cases for Calculating digits in a given number
 assert = require('assert');
 let numberOfDigits=require('../lib/calc_digits.js').numberOfDigits;
 
